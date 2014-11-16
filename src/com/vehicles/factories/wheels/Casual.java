@@ -10,6 +10,6 @@ public class Casual implements ITires {
     @Override
     public void installTires() {
 
-        System.out.println("The following type of wheels have been installed using the installTires() method: Casual.");
+        System.out.println("The following type of tires have been installed using the installTires() method: Casual.");
     }
 }
